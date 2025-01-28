@@ -25,7 +25,7 @@ chatForm.addEventListener("submit", (e) => {
       const replies = ["Hello there!", "How are you?", "I'm learning JavaScript too!", "That's great!"];
       const randomReply = replies[Math.floor(Math.random() * replies.length)];
       addMessage("received", randomReply);
-    }, 1000);
+    }, 2000);
   }
 });
 
