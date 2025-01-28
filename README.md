@@ -42,7 +42,7 @@ The chat window scrolls automatically to enable user go up or down to desirable 
 
 # Improvements
 If we get the go ahead to improve on this project, the following would be seen as upgrade:
-1.	A landing page with Sign-up and Login options.
+1.	A landing page with Sign-up and Login options (Back-end programming involved)
 2.	A redefined/custom chat background,
 3.	A sender and receiver chat-icon
 4.	A timestamp that will include seconds
