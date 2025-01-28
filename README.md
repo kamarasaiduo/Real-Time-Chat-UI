@@ -47,7 +47,7 @@ If we get the go ahead to improve on this project, the following would be seen a
 3.	A sender and receiver chat-icon
 4.	A timestamp that will include seconds
 5.	Faster automated response
-6.	More responsiveness
+6.	More responsiveness using media queries
 7.	Human-like response
 8.	A logout button to end session
 
